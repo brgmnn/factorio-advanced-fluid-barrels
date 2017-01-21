@@ -1,0 +1,10 @@
+{
+  "name": "fluid-barrel",
+  "version": "1.0.0",
+  "title": "Fluid Barrels",
+  "author": "Daniel Bergmann",
+  "homepage": "https://github.com/brgmnn/factorio-barrels",
+  "factorio_version": "0.14",
+  "dependencies": ["base"],
+  "description": "Allows for all fluids to be added to barrels and transported as an item."
+}
