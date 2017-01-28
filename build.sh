@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path="fluid-barrel_1.0.0"
+path="advanced-fluid-barrels_0.14.0"
 
 mkdir -p "build/$path"
 cp -r graphics locale prototypes data.lua info.json "build/$path/"

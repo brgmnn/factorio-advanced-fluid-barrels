@@ -1,5 +1,3 @@
-require("prototypes.item.fluid-barrel")
-
-require("prototypes.recipe.fluid-barrel")
-
-require("prototypes.technology.fluid-barrel")
+require("prototypes.item.advanced-fluid-barrels")
+require("prototypes.recipe.advanced-fluid-barrels")
+require("prototypes.technology.advanced-fluid-barrels")

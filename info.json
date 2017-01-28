@@ -1,9 +1,9 @@
 {
-  "name": "fluid-barrel",
-  "version": "1.0.0",
-  "title": "Fluid Barrels",
+  "name": "advanced-fluid-barrels",
+  "version": "0.14.0",
+  "title": "Advanced fluid barrels",
   "author": "Daniel Bergmann",
-  "homepage": "https://github.com/brgmnn/factorio-barrels",
+  "homepage": "https://github.com/brgmnn/factorio-advanced-fluid-barrels",
   "factorio_version": "0.14",
   "dependencies": ["base"],
   "description": "Allows for all fluids to be added to barrels and transported as an item."
